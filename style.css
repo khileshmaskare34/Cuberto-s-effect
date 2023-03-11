@@ -65,6 +65,7 @@ html, body{
     scale:0;
     opacity: 0;
     border-radius: 50%;
+    transition: all linear .5s;
 }
 .elem .overflow{
     z-index: 9;
